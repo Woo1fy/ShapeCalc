@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeCalcConsole", "ShapeCalcConsole\ShapeCalcConsole.csproj", "{47537515-9F35-4C89-A099-D3400AA77048}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeCalcConsole", "ShapeCalcConsole\ShapeCalcConsole.csproj", "{47537515-9F35-4C89-A099-D3400AA77048}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeCalcLib", "ShapeCalcLib\ShapeCalcLib.csproj", "{21D4F271-67BE-4B6F-8DC9-746B14D75109}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeCalcLib", "ShapeCalcLib\ShapeCalcLib.csproj", "{21D4F271-67BE-4B6F-8DC9-746B14D75109}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeCalcTests", "ShapeCalcTests\ShapeCalcTests.csproj", "{5CB9E6DD-1A2B-4151-8CF8-11662DFB1A2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeCalcTests", "ShapeCalcTests\ShapeCalcTests.csproj", "{5CB9E6DD-1A2B-4151-8CF8-11662DFB1A2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

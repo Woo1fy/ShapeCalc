@@ -2,6 +2,6 @@
 {
     public interface IShape
     {
-        public abstract double GetShapeArea();
+        abstract double GetShapeArea();
     }
 }
